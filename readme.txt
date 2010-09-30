@@ -11,7 +11,7 @@ Stable tag: 0.21
 
 == Description ==
 
-The halloween blogroll is a Wordpress Plugin/Widget which just gives your blogroll a halloween theme. It was developed by us at the [christmas gifts](http://christmas-gifts.makers-online.co.uk "The Christmas Gifts blog") for a bit of fun and as a test for one we will do for Xmas.
+The halloween blogroll is a Wordpress Plugin/Widget which just gives your blogroll a halloween theme. It was developed by us at the [christmas gifts](http://christmas-gifts.makers-online.co.uk "The Christmas Gifts blog") blog for a bit of fun and as a test for one we will do for Xmas.
 
 == Installation ==
 
