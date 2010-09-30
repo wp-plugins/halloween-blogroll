@@ -4,8 +4,9 @@ YUI().use('anim', 'node', function(Y) {
 		var container = nodes.item(0);
 		if (!container) return;
 
-		var witchNode = Y.Node.create('<div id="hbr_witch" style="position: absolute;"><img src="/wp-content/plugins/halloween-blogroll/witch.png" /></div>');
+		var witchNode = Y.Node.create('<div id="hbr_witch" style="position: absolute;"><img src="http://christmas-gifts.makers-online.co.uk/wp-content/plugins/halloween-blogroll/witch.png" /></div>');
 		container.appendChild(witchNode);
+
 		var height = container.getStyle('height');
 		var rHeight = Math.floor(height.replace('px', ''));
 		parseInt(rHeight);
