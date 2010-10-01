@@ -23,6 +23,7 @@ function widget_halloween_blogroll($args) {
         echo 'li.widget_halloween_blogroll ul { background-image: url(/wp-content/plugins/halloween-blogroll/trees.png);background-position: top; background-repeat: no-repeat; }';
         echo '#main .widget-area ul li.widget_halloween_blogroll ul { margin-left: 0px; padding: 0px; list-style: none; }';
         echo '#main .widget-area ul li.widget_halloween_blogroll ul li a { margin-left: 0px; }';
+        echo '.halloween-credit { -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"; filter: alpha(opacity=50); opacity: .5; position: absolute; bottom: 0px; right: 0px; font-size: 80%; }';
         echo '</style>';
 	echo '<script type="text/javascript" charset="utf-8" src="http://yui.yahooapis.com/3.2.0/build/yui/yui-min.js"></script>';
         echo '<script src="/wp-content/plugins/halloween-blogroll/anims.js"></script>';
@@ -33,6 +34,7 @@ function widget_halloween_blogroll($args) {
 		'category_before' => '', 'category_after' => '',
 		'show_images' => true, 'class' => 'linkcat widget'
 	));
+        echo '<span class="halloween-credit">by the <a target="_blank" href="http://christmas-gifts.makers-online.co.uk">xmas gifts</a> blog</span>';
 	echo $after_widget;
 }
 
