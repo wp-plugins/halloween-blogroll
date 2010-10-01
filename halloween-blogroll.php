@@ -3,7 +3,7 @@
 Plugin Name: Halloween Blogroll Widget
 Plugin URI:http://christmas-gifts.makers-online.co.uk
 Description: A scary blogroll
-Version:1.0	
+Version:3.0	
 Author:lukes	
 Author URI:http://christmas-gifts.makers-online.co.uk
 */
