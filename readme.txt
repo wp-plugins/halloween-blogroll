@@ -1,13 +1,13 @@
 === Halloween Blogroll  ===
 Authors: Luke Saunders
 Contributors: Luke Saunders
-Version: 0.21
+Version: 0.22
 Tags: halloween, blogroll, fun, festive
 Plugin Name: Halloween Blogroll
 Plugin URI: http://www.makers-online.co.uk/projects/halloween_blogroll
 Requires at least: 3
 Tested up to: 3
-Stable tag: 0.21
+Stable tag: 0.22
 
 == Description ==
 
